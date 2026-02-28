@@ -1,0 +1,32 @@
+body {
+    background: rgb(244, 212, 212);
+    width: 650px;
+    padding: auto;
+    margin: 150px 30px;
+}
+table {
+    border: 4px outset rgb(255, 255, 255);
+}
+h1 {
+    color: rgb(171, 85, 85);
+    margin: 0 0 20px 0;
+    padding: 10px;
+    font-size: 24px;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+th {
+    font-weight: 900;
+    border: 1px inset rgb(255, 255, 255);
+    padding: 2px 1px;
+}
+td {
+    border: 1px inset rgb(255, 255, 255);
+
+}
+.yacheyka{
+    background: rgb(171, 85, 85);
+    color: white;
+    border: 1px solid white;
+    padding: 5% 2%;
+}
